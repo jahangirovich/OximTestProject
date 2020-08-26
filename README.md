@@ -12,11 +12,11 @@
  Composer global require laravel/installer <br/>
  Configure .env file to your database and localhost
  Laravel new blog <br/>
- php artisan migrate
+ php artisan migrate <br/>
  php artisan serve
 
 ## Passport installation
- Composer require laravel/passport
- php artisan migrate
+ Composer require laravel/passport <br/>
+ php artisan migrate <br/>
  php artisan passport:install
  
