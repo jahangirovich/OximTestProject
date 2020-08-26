@@ -10,9 +10,13 @@
  Download MAMP https://www.mamp.info/en/downloads/ <br/>
 
  Composer global require laravel/installer <br/>
+ Configure .env file to your database and localhost
  Laravel new blog <br/>
+ php artisan migrate
+ php artisan serve
 
 ## Passport installation
-
-
-
+ Composer require laravel/passport
+ php artisan migrate
+ php artisan passport:install
+ 
