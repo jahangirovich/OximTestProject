@@ -5,12 +5,12 @@
 
 ## Composer,Laravel,MySql,MAMP
 
- download composer https://getcomposer.org/ 
- download mySql by link or brew
- download MAMP https://www.mamp.info/en/downloads/
+ download composer https://getcomposer.org/ <br/>
+ download mySql by link or brew <br/>
+ download MAMP https://www.mamp.info/en/downloads/ <br/>
 
- composer global require laravel/installer
- laravel new blog
+ composer global require laravel/installer <br/>
+ laravel new blog <br/>
 
 ## Passport installation
 
